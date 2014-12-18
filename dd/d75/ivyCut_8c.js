@@ -1,0 +1,25 @@
+var ivyCut_8c =
+[
+    [ "Ivy_CutCheckDominance", "dd/d75/ivyCut_8c.html#a26a7fbbeee43a6c68e11cacd8875860c", null ],
+    [ "Ivy_ManFindBoolCut", "dd/d75/ivyCut_8c.html#ad0e0dcb1e32a27013fb48601e8d7a2fa", null ],
+    [ "Ivy_ManFindBoolCut_rec", "dd/d75/ivyCut_8c.html#a67160b66f462602f8cd39c4805b08db0", null ],
+    [ "Ivy_ManFindBoolCutCost", "dd/d75/ivyCut_8c.html#a149e822b10d083e20d64b206e1379f90", null ],
+    [ "Ivy_ManSeqFindCut", "dd/d75/ivyCut_8c.html#a6190996272725d421f36ee90244bed94", null ],
+    [ "Ivy_ManSeqFindCut_int", "dd/d75/ivyCut_8c.html#a09284b9604a56e4ffe89bc53e49cc001", null ],
+    [ "Ivy_ManTestCutsAll", "dd/d75/ivyCut_8c.html#a862596d20bd1b8925d3c8d785556107a", null ],
+    [ "Ivy_ManTestCutsBool", "dd/d75/ivyCut_8c.html#a5d3da84ef105fa426a97d3dc84e5c486", null ],
+    [ "Ivy_NodeCompactCuts", "dd/d75/ivyCut_8c.html#ae3e217bfd730d014741018a5595fb42f", null ],
+    [ "Ivy_NodeCutDeriveNew", "dd/d75/ivyCut_8c.html#a2755b227e9264c64a3a6f3d5e3df80de", null ],
+    [ "Ivy_NodeCutExtend", "dd/d75/ivyCut_8c.html#a3561104e68399ca99e38bf3e6092942c", null ],
+    [ "Ivy_NodeCutFindOrAdd", "dd/d75/ivyCut_8c.html#a0865129d3145baf5f470cc5e30381653", null ],
+    [ "Ivy_NodeCutFindOrAddFilter", "dd/d75/ivyCut_8c.html#a0bc4baecfcfb5d5a176a83557284e8aa", null ],
+    [ "Ivy_NodeCutHash", "dd/d75/ivyCut_8c.html#ae96e8b70964e99fb1a7dadc29c027b68", null ],
+    [ "Ivy_NodeCutHashValue", "dd/d75/ivyCut_8c.html#a7835049da2304d754d1a48f11af99bc5", null ],
+    [ "Ivy_NodeCutPrescreen", "dd/d75/ivyCut_8c.html#a97321d9a00e630fdfb32eb1f85fa9afe", null ],
+    [ "Ivy_NodeCutShrink", "dd/d75/ivyCut_8c.html#aaf3bebd58616c680304203db784765b6", null ],
+    [ "Ivy_NodeFindCutsAll", "dd/d75/ivyCut_8c.html#afd635042760bd3c8b8b3fa9227279b9d", null ],
+    [ "Ivy_NodeGetLeafCostOne", "dd/d75/ivyCut_8c.html#aca0e11bc33740649e576dd146a9e9147", null ],
+    [ "Ivy_NodePrintCut", "dd/d75/ivyCut_8c.html#a515fa90a7eb8abe2e0ef7db1104195f7", null ],
+    [ "Ivy_NodePrintCuts", "dd/d75/ivyCut_8c.html#ae1c9541b2764bc8057833a41120e2a3b", null ],
+    [ "Ivy_ObjRealFanin", "dd/d75/ivyCut_8c.html#a193fe868be8226496bea94e24846d15c", null ]
+];

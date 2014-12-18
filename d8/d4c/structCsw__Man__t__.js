@@ -1,0 +1,26 @@
+var structCsw__Man__t__ =
+[
+    [ "fVerbose", "d8/d4c/structCsw__Man__t__.html#adb3eceac52ca92e50ec5e0a9ce1af22e", null ],
+    [ "nCutSize", "d8/d4c/structCsw__Man__t__.html#aaf0d4d03014299ec6cc3e40a5bb76f31", null ],
+    [ "nCutsMax", "d8/d4c/structCsw__Man__t__.html#ac2a99d76f87f8ac547867bd6c65e4136", null ],
+    [ "nLeafMax", "d8/d4c/structCsw__Man__t__.html#a36a75d6b222a371a403c184de4a0bc1f", null ],
+    [ "nNodesCuts", "d8/d4c/structCsw__Man__t__.html#a7955f3de2410493f73fa82428fe0e217", null ],
+    [ "nNodesTried", "d8/d4c/structCsw__Man__t__.html#a7582e579814c4caab3c784771d54a72c", null ],
+    [ "nNodesTriv0", "d8/d4c/structCsw__Man__t__.html#a11f25e2d2a51efa53a533941b17ff881", null ],
+    [ "nNodesTriv1", "d8/d4c/structCsw__Man__t__.html#aea5c83a4b23129128f7ca3ab7f361831", null ],
+    [ "nNodesTriv2", "d8/d4c/structCsw__Man__t__.html#a62f69653962fa2ee4d46e76ec466e3c6", null ],
+    [ "nTableSize", "d8/d4c/structCsw__Man__t__.html#a8af1bd74b0895c160454e234444003f9", null ],
+    [ "nTruthWords", "d8/d4c/structCsw__Man__t__.html#a5900d9b9ea6403dfa3f63fb288846344", null ],
+    [ "pCuts", "d8/d4c/structCsw__Man__t__.html#a79c2c74aef29a246251a953455d0fd3f", null ],
+    [ "pEquiv", "d8/d4c/structCsw__Man__t__.html#a8dd57f3620762e6b50f81afb71453437", null ],
+    [ "pManAig", "d8/d4c/structCsw__Man__t__.html#adb52a120ba266692ea83887f11ae7752", null ],
+    [ "pManRes", "d8/d4c/structCsw__Man__t__.html#a9660650bcfb6552703731ea3060a06e1", null ],
+    [ "pMemCuts", "d8/d4c/structCsw__Man__t__.html#a555165797dd7e3067b84180fb35813e2", null ],
+    [ "pnRefs", "d8/d4c/structCsw__Man__t__.html#a1db77de2f28b1c088c47b69102f40c36", null ],
+    [ "pTable", "d8/d4c/structCsw__Man__t__.html#ae615bde9e76e0805896faf612a488d5d", null ],
+    [ "puTemp", "d8/d4c/structCsw__Man__t__.html#ad8221db88baf0b2cdd04f5836c05c83b", null ],
+    [ "timeCuts", "d8/d4c/structCsw__Man__t__.html#a95171a526d8b83b832b87add186844cf", null ],
+    [ "timeHash", "d8/d4c/structCsw__Man__t__.html#a3247b92bcec5aa7239357804f124711b", null ],
+    [ "timeOther", "d8/d4c/structCsw__Man__t__.html#a6be0144c8ffef3b7e18f03eb9f361784", null ],
+    [ "timeTotal", "d8/d4c/structCsw__Man__t__.html#a9fd6990d022978d6d0821cb5d18cc131", null ]
+];

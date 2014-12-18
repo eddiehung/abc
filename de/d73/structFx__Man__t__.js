@@ -1,0 +1,26 @@
+var structFx__Man__t__ =
+[
+    [ "LitCountMax", "de/d73/structFx__Man__t__.html#aad964912ba989cdcfebbcac9dea4c520", null ],
+    [ "nCompls", "de/d73/structFx__Man__t__.html#abc00835a5971af16624c971ca7933a34", null ],
+    [ "nDivMux", "de/d73/structFx__Man__t__.html#a6125775a9065ab3546a12b4dd9266409", null ],
+    [ "nDivs", "de/d73/structFx__Man__t__.html#a779d9e89cb0ab2ba463b94c03f4b868d", null ],
+    [ "nDivsS", "de/d73/structFx__Man__t__.html#ab283f7d53ef8213e9ca83656f63a340a", null ],
+    [ "nLits", "de/d73/structFx__Man__t__.html#a5cee50c1ae67814954497255143ae192", null ],
+    [ "nPairsD", "de/d73/structFx__Man__t__.html#a9b971f7e25baa66fe27b79d9c750fbac", null ],
+    [ "nPairsS", "de/d73/structFx__Man__t__.html#a341845882d94cedf358949868127abdc", null ],
+    [ "nVars", "de/d73/structFx__Man__t__.html#acc3c78e6216eef42776f8a792dcf7e3e", null ],
+    [ "pHash", "de/d73/structFx__Man__t__.html#a215cdb513c6aede911dce82a9af8a06b", null ],
+    [ "timeStart", "de/d73/structFx__Man__t__.html#abd70183f7b69430e64c20dbcc3e722eb", null ],
+    [ "vCompls", "de/d73/structFx__Man__t__.html#a2ac7344858ed20c5e4c18e24ffffe942", null ],
+    [ "vCounts", "de/d73/structFx__Man__t__.html#ac0b0e046b964686fb331be3f6a342bc8", null ],
+    [ "vCubeFree", "de/d73/structFx__Man__t__.html#ac19cd206a05f14d72bd8aede124ac6fb", null ],
+    [ "vCubes", "de/d73/structFx__Man__t__.html#ab0ee72e1160c0627214367890eebdb1c", null ],
+    [ "vCubesD", "de/d73/structFx__Man__t__.html#adb1825627dfff5155311f207fcf9c272", null ],
+    [ "vCubesS", "de/d73/structFx__Man__t__.html#ad3116b3a9f311c8b4517a08b555a2885", null ],
+    [ "vDiv", "de/d73/structFx__Man__t__.html#a3380b6d8240d4813d18b15605fe71491", null ],
+    [ "vLevels", "de/d73/structFx__Man__t__.html#a8df3c7216566714ff191a3b857cdaf26", null ],
+    [ "vLits", "de/d73/structFx__Man__t__.html#af2b2daf3dde15032aca67da1e7e361e6", null ],
+    [ "vPrio", "de/d73/structFx__Man__t__.html#a2177b944ac6e147ffc63b168f694d193", null ],
+    [ "vVarCube", "de/d73/structFx__Man__t__.html#a4d10e37e57599969e56cc47de1896e4a", null ],
+    [ "vWeights", "de/d73/structFx__Man__t__.html#a71b37b0b93d285855a0ff5a18876b6e7", null ]
+];

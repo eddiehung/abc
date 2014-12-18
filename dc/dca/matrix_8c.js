@@ -1,0 +1,25 @@
+var matrix_8c =
+[
+    [ "sm_alloc", "dc/dca/matrix_8c.html#accde03a7738b8d3e2002da4f5ed400cf", null ],
+    [ "sm_alloc_size", "dc/dca/matrix_8c.html#a0262958e6c8fe6f767e7ac008c9da278", null ],
+    [ "sm_cleanup", "dc/dca/matrix_8c.html#a65853dfd18f2ea568d0a3b5bcb09d8c1", null ],
+    [ "sm_copy_col", "dc/dca/matrix_8c.html#a0e1d7678b2924ef17c8e55d8c295ad92", null ],
+    [ "sm_copy_row", "dc/dca/matrix_8c.html#a8036e7f94907c6ac481ffd8e1a759661", null ],
+    [ "sm_delcol", "dc/dca/matrix_8c.html#a11cc3a7bf4d959bb01c9e09728c1c50d", null ],
+    [ "sm_delrow", "dc/dca/matrix_8c.html#a79b889b404f6f7b0ec1b6814182e8a62", null ],
+    [ "sm_dump", "dc/dca/matrix_8c.html#a3cbfd0dc1250ec56a8ff228487fd8daf", null ],
+    [ "sm_dup", "dc/dca/matrix_8c.html#a9641be3918aba7d25cfa82f78fefadd2", null ],
+    [ "sm_find", "dc/dca/matrix_8c.html#a389bb04ffa7d9fce242a6443aa4f18b6", null ],
+    [ "sm_free", "dc/dca/matrix_8c.html#aa7ce13c7dc3b64023ced9b2b3540d25b", null ],
+    [ "sm_insert", "dc/dca/matrix_8c.html#a5384e7a0122cbf62e8f1405e0f9c8b59", null ],
+    [ "sm_longest_col", "dc/dca/matrix_8c.html#af783c43ed8d9d6b673b6fe13d9c7b769", null ],
+    [ "sm_longest_row", "dc/dca/matrix_8c.html#a3c034388add71cc0cc6dc28bd3311e20", null ],
+    [ "sm_num_elements", "dc/dca/matrix_8c.html#a875e44b9239a0e1692e17a7d05bf10a9", null ],
+    [ "sm_print", "dc/dca/matrix_8c.html#a0de767c457f6391b6b86d7745e7c0b37", null ],
+    [ "sm_read", "dc/dca/matrix_8c.html#a71e920f169c040fe5b9ea04b18ab5920", null ],
+    [ "sm_read_compressed", "dc/dca/matrix_8c.html#a0f8dfef2ed94c1c78f71962dcb75aed1", null ],
+    [ "sm_remove", "dc/dca/matrix_8c.html#a8775642529886be6e995d36fafdc2496", null ],
+    [ "sm_remove_element", "dc/dca/matrix_8c.html#a6b884ac3068467883a93bd41518a3c19", null ],
+    [ "sm_resize", "dc/dca/matrix_8c.html#a038c5110d683cd35666b9ef7dfb91c87", null ],
+    [ "sm_write", "dc/dca/matrix_8c.html#aef63f499aaa8c3b4fea49f63e4aa9810", null ]
+];

@@ -1,0 +1,28 @@
+var structGia__ParLlb__t__ =
+[
+    [ "fBackward", "d7/d90/structGia__ParLlb__t__.html#a703595481dd9811c33b81f42c38978cb", null ],
+    [ "fCluster", "d7/d90/structGia__ParLlb__t__.html#afcab25da76bbfdc96fe1dc0db8abfb11", null ],
+    [ "fDumpReached", "d7/d90/structGia__ParLlb__t__.html#a1cadbf8ad47458d45195bdbf2955b038", null ],
+    [ "fIndConstr", "d7/d90/structGia__ParLlb__t__.html#ace64580dae528358a077a0cf555c165c", null ],
+    [ "fReorder", "d7/d90/structGia__ParLlb__t__.html#abdfdce8d1858b9223476ecb134a16c04", null ],
+    [ "fSchedule", "d7/d90/structGia__ParLlb__t__.html#a60158d67712133639897e5619ffd36b5", null ],
+    [ "fSilent", "d7/d90/structGia__ParLlb__t__.html#aa5625cd1983c2dac69ec4dddaeb3504b", null ],
+    [ "fSkipOutCheck", "d7/d90/structGia__ParLlb__t__.html#a01dec3d1a8518262c990cab5165d01b9", null ],
+    [ "fSkipReach", "d7/d90/structGia__ParLlb__t__.html#ad23f6c52f46f7685bd2be5cb99454b0b", null ],
+    [ "fUseFlow", "d7/d90/structGia__ParLlb__t__.html#a6d96991d3d3c36cb0a82061ac324a5d7", null ],
+    [ "fUsePivots", "d7/d90/structGia__ParLlb__t__.html#a4fe865d6d8fd609e3360223eea6b924c", null ],
+    [ "fVerbose", "d7/d90/structGia__ParLlb__t__.html#a1656988917e5b458657844e657f0629a", null ],
+    [ "fVeryVerbose", "d7/d90/structGia__ParLlb__t__.html#a7c7060d0fbec64cc52c7d8b86c67c1dc", null ],
+    [ "HintFirst", "d7/d90/structGia__ParLlb__t__.html#a3265b148b2bf61ab0a6407d549329eeb", null ],
+    [ "iFrame", "d7/d90/structGia__ParLlb__t__.html#ad9703ed470a7661b1e11f13342a2e75d", null ],
+    [ "nBddMax", "d7/d90/structGia__ParLlb__t__.html#a83beafb0cf346944b59b5e2f46d21d2b", null ],
+    [ "nClusterMax", "d7/d90/structGia__ParLlb__t__.html#a0d1ff0c3fac29d40c8ffc2c5b8ccf823", null ],
+    [ "nHintDepth", "d7/d90/structGia__ParLlb__t__.html#a38555d387cffce90abb42ad81c06360b", null ],
+    [ "nIterMax", "d7/d90/structGia__ParLlb__t__.html#a34a4ebe068b1bac583e3920fb504ba3b", null ],
+    [ "nPartValue", "d7/d90/structGia__ParLlb__t__.html#ab90b5893cfaaa4dd8b76b9d99ed80772", null ],
+    [ "nVolumeMax", "d7/d90/structGia__ParLlb__t__.html#aebd2bc95cdbfdcb12509e2447e8433e7", null ],
+    [ "nVolumeMin", "d7/d90/structGia__ParLlb__t__.html#ac12864817d7b9237da5dd50c6e5c53b1", null ],
+    [ "TimeLimit", "d7/d90/structGia__ParLlb__t__.html#a81f05700eb6e5767ca385bd0aa032a1b", null ],
+    [ "TimeLimitGlo", "d7/d90/structGia__ParLlb__t__.html#a632a0e3af715ab225227b7926414e041", null ],
+    [ "TimeTarget", "d7/d90/structGia__ParLlb__t__.html#a62b8bf231bdfcfcd0ec3902cd8d52a2c", null ]
+];

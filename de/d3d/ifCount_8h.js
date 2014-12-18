@@ -1,0 +1,28 @@
+var ifCount_8h =
+[
+    [ "If_AigPrintArray", "de/d3d/ifCount_8h.html#a859df1f23245a02dde2c837b6516263d", null ],
+    [ "If_AigVerifyArray", "de/d3d/ifCount_8h.html#a933ccd4fb6f997c4cbdefd6560a78869", null ],
+    [ "If_CutPinDelayDecrement", "de/d3d/ifCount_8h.html#a0a06b71213aaa520826ae62c870dccbe", null ],
+    [ "If_CutPinDelayDom", "de/d3d/ifCount_8h.html#a809840fcffe38174a21548024cedfcd2", null ],
+    [ "If_CutPinDelayEqual", "de/d3d/ifCount_8h.html#a6c6d4f9143b084212bc748f1387f881c", null ],
+    [ "If_CutPinDelayGet", "de/d3d/ifCount_8h.html#a022106f58f31ccdfda03d80ec39b1c30", null ],
+    [ "If_CutPinDelayInit", "de/d3d/ifCount_8h.html#a5f0606b3f8acec3c1fa8a7390c3bb893", null ],
+    [ "If_CutPinDelayMax", "de/d3d/ifCount_8h.html#afe2e38810daf80e49a7608eb2daa335f", null ],
+    [ "If_CutPinDelayPrint", "de/d3d/ifCount_8h.html#a6e7d3c4dd5032feeadc508bda23083c5", null ],
+    [ "If_CutPinDelaySet", "de/d3d/ifCount_8h.html#ae8cf603991bf2930d345a31ebad98047", null ],
+    [ "If_CutPinDelayTranslate", "de/d3d/ifCount_8h.html#aa014ecd231db7f44646a10af63381742", null ],
+    [ "If_LogCounter32Add", "de/d3d/ifCount_8h.html#ae550a0035a12aebceade667d99002287", null ],
+    [ "If_LogCounter32Eval", "de/d3d/ifCount_8h.html#a3821758dcbe19df8e3fad88f73e2ccdb", null ],
+    [ "If_LogCounter64Add", "de/d3d/ifCount_8h.html#a5146c4206886a7fb662b390d1ba4ede5", null ],
+    [ "If_LogCounter64Eval", "de/d3d/ifCount_8h.html#adf53e0ebb04e78147bcb02cf0c970bbd", null ],
+    [ "If_LogCounterAdd", "de/d3d/ifCount_8h.html#ad65246fd71fdab6e4e01d067b894fc1b", null ],
+    [ "If_LogCounterAddAig", "de/d3d/ifCount_8h.html#acbf31ca051f838fa2991dd034db07692", null ],
+    [ "If_LogCounterDelayXor", "de/d3d/ifCount_8h.html#ae283847c9ddc74a4a1b4d0e0b699a1ce", null ],
+    [ "If_LogCounterPinDelays", "de/d3d/ifCount_8h.html#a561bce753dc37a1e6bdc95a6cf827fcd", null ],
+    [ "If_LogCreateAnd", "de/d3d/ifCount_8h.html#a131ab71b3c60f7ee925b3bd1010ff942", null ],
+    [ "If_LogCreateAndXor", "de/d3d/ifCount_8h.html#a6b52c386de7b857ab015a1a0c10a3086", null ],
+    [ "If_LogCreateAndXorMulti", "de/d3d/ifCount_8h.html#a9578b64a34df1106eaa0168eaca1b703", null ],
+    [ "If_LogCreateMux", "de/d3d/ifCount_8h.html#a5e5be3a58ff8b669dbe05eb187c9bf5a", null ],
+    [ "If_LogCreateXor", "de/d3d/ifCount_8h.html#a51331e7ea84753ec04371e714943ce7e", null ],
+    [ "If_LogPinDelaysMulti", "de/d3d/ifCount_8h.html#a801b849c15043379018baf399863c645", null ]
+];

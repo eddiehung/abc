@@ -1,0 +1,26 @@
+var structSsw__RarMan__t__ =
+[
+    [ "fVerbose", "da/dee/structSsw__RarMan__t__.html#ab42f6562dba7c2cd51c3ca8d75429d59", null ],
+    [ "iFailPat", "da/dee/structSsw__RarMan__t__.html#a411796c0abe76cb0dd579cb36978e2a6", null ],
+    [ "iFailPo", "da/dee/structSsw__RarMan__t__.html#a695540d7a55c4aee259c6c88a5d0d706", null ],
+    [ "nBinSize", "da/dee/structSsw__RarMan__t__.html#ab5e22ae11542a3a9b14dc73439d14495", null ],
+    [ "nFrames", "da/dee/structSsw__RarMan__t__.html#a3df28885da72623ee54d2b6cc1897865", null ],
+    [ "nGroups", "da/dee/structSsw__RarMan__t__.html#aecc74566c4a6b443b50ee88e76dd386b", null ],
+    [ "nWords", "da/dee/structSsw__RarMan__t__.html#a0694734b06167a19703a1b273736ee09", null ],
+    [ "nWordsReg", "da/dee/structSsw__RarMan__t__.html#a82a7592b182d5376928fe954b0cd98f7", null ],
+    [ "pAig", "da/dee/structSsw__RarMan__t__.html#a9bd1b9478e25c919a098baec7fe338d5", null ],
+    [ "pGroupValues", "da/dee/structSsw__RarMan__t__.html#a0868c03070ec13f78be69a5d1ac554ef", null ],
+    [ "pObjData", "da/dee/structSsw__RarMan__t__.html#a22a58a7e21b91ac349573115ebbc2b79", null ],
+    [ "pPars", "da/dee/structSsw__RarMan__t__.html#abc9587c350a36a23d7c98cc27c6ed722", null ],
+    [ "pPatCosts", "da/dee/structSsw__RarMan__t__.html#afbcee5eed9c3b1210f1efda2a867e619", null ],
+    [ "pPatData", "da/dee/structSsw__RarMan__t__.html#a18fe129f02854e92902b83edf4ddeec0", null ],
+    [ "ppClasses", "da/dee/structSsw__RarMan__t__.html#a10221aa4f0d02f559bdc14d31e2bb507", null ],
+    [ "pRarity", "da/dee/structSsw__RarMan__t__.html#ab7b640c5108b82b9d794ec631a2f6367", null ],
+    [ "pSml", "da/dee/structSsw__RarMan__t__.html#acecdaf3870e68d639e3a3ff9ed6f63ef", null ],
+    [ "vCexes", "da/dee/structSsw__RarMan__t__.html#af0b34e475ee6b9d78e8f0c1e44bdc95d", null ],
+    [ "vInits", "da/dee/structSsw__RarMan__t__.html#ace29e2b3a1afb78a5ff3f83ab686a8ef", null ],
+    [ "vPatBests", "da/dee/structSsw__RarMan__t__.html#a0e3bb129d4379b7d53241ce13872fa1f", null ],
+    [ "vSimInfo", "da/dee/structSsw__RarMan__t__.html#a001b54eb264cbba4d01eb03463fdd311", null ],
+    [ "vUpdClass", "da/dee/structSsw__RarMan__t__.html#aff877a4a9210471b12562cc5b76f11ad", null ],
+    [ "vUpdConst", "da/dee/structSsw__RarMan__t__.html#a6debc77bf532aa8b1c6aa8fef2d2a203", null ]
+];

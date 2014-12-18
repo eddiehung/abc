@@ -1,0 +1,26 @@
+var structAbc__ManRef__t__ =
+[
+    [ "dd", "df/d42/structAbc__ManRef__t__.html#a1493bbd6cb6b25e95e65324b54fb6e2e", null ],
+    [ "fVerbose", "df/d42/structAbc__ManRef__t__.html#a7bde33331bfa53c033ad493cd358c643", null ],
+    [ "nConeSizeMax", "df/d42/structAbc__ManRef__t__.html#a11fe36b6d45b6d6d23f5cf668e5b8bb0", null ],
+    [ "nLastGain", "df/d42/structAbc__ManRef__t__.html#aa7e0592d6ae731204c4feb3807045586", null ],
+    [ "nNodesBeg", "df/d42/structAbc__ManRef__t__.html#a97788b051b0c3593e67d7882a196cf88", null ],
+    [ "nNodesConsidered", "df/d42/structAbc__ManRef__t__.html#aed9db8a5d39bd2c27288fd036485936b", null ],
+    [ "nNodesEnd", "df/d42/structAbc__ManRef__t__.html#aa693de71379f255615a19337e367f196", null ],
+    [ "nNodesGained", "df/d42/structAbc__ManRef__t__.html#a335ac948b477312f8bbb5a3660b119f5", null ],
+    [ "nNodeSizeMax", "df/d42/structAbc__ManRef__t__.html#a53885fcbd470be41a427444fd4e87e36", null ],
+    [ "nNodesRefactored", "df/d42/structAbc__ManRef__t__.html#a79ef99b46fca3de3af44d5b195585e1e", null ],
+    [ "timeBdd", "df/d42/structAbc__ManRef__t__.html#ad1dee35195b71e771d73a31cd57b60a1", null ],
+    [ "timeCut", "df/d42/structAbc__ManRef__t__.html#a25203c076ce5b36e548d5200d5f32da0", null ],
+    [ "timeDcs", "df/d42/structAbc__ManRef__t__.html#ae9dcd29e9026204a5e7a8a740c82fca1", null ],
+    [ "timeEval", "df/d42/structAbc__ManRef__t__.html#a47d0e394e151d958a7644e0367a8a748", null ],
+    [ "timeFact", "df/d42/structAbc__ManRef__t__.html#a172c43dc5c1fb4f6c8e4e711a56bde94", null ],
+    [ "timeNtk", "df/d42/structAbc__ManRef__t__.html#a9cf8f7885f620aede2303074d268e7fa", null ],
+    [ "timeRes", "df/d42/structAbc__ManRef__t__.html#a931ff4a90db2095fd90e7a89627bf477", null ],
+    [ "timeSop", "df/d42/structAbc__ManRef__t__.html#a9e0a4ad0604faf24da7b02aac5185c1c", null ],
+    [ "timeTotal", "df/d42/structAbc__ManRef__t__.html#a025f2f2188f004d4da98643cac5d93bd", null ],
+    [ "vCube", "df/d42/structAbc__ManRef__t__.html#aeb4c10c73f59ff4fe32b6fc827f817c8", null ],
+    [ "vForm", "df/d42/structAbc__ManRef__t__.html#a0a24b4b0fc5f0cb02e2a6e8001aa8261", null ],
+    [ "vLeaves", "df/d42/structAbc__ManRef__t__.html#a50a7499f49f21f12b2653d5a64b7789c", null ],
+    [ "vVisited", "df/d42/structAbc__ManRef__t__.html#afb9d953fd6fbb90970b7c2738708c09b", null ]
+];

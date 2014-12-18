@@ -1,0 +1,26 @@
+var structRef__Man__t__ =
+[
+    [ "DecPars", "dc/def/structRef__Man__t__.html#a9dac46bb6a96379d6d34b8d90bceffea", null ],
+    [ "GainBest", "dc/def/structRef__Man__t__.html#a3fef334407f3d408c3b77636239618ec", null ],
+    [ "LevelBest", "dc/def/structRef__Man__t__.html#ab12322af0c23b55f052e9fd8a56e40f8", null ],
+    [ "nCutsTried", "dc/def/structRef__Man__t__.html#a335ab8ca53318d82469fcbfcd610683f", null ],
+    [ "nCutsUsed", "dc/def/structRef__Man__t__.html#aee9f45b7f37454465638ba316d0609d0", null ],
+    [ "nNodesBelow", "dc/def/structRef__Man__t__.html#a21956ec812b329c191b526169a1a34a9", null ],
+    [ "nNodesExten", "dc/def/structRef__Man__t__.html#a342082304f0fd48bdc6f27ffc3bb12e0", null ],
+    [ "nNodesInit", "dc/def/structRef__Man__t__.html#a7dd04774bb92f9dc945d3b55a7994070", null ],
+    [ "nNodesTried", "dc/def/structRef__Man__t__.html#af4e22229792fbd918a59cba47c7c568c", null ],
+    [ "pAig", "dc/def/structRef__Man__t__.html#ab68bce9e624cce35d7dab080145cc175", null ],
+    [ "pGraphBest", "dc/def/structRef__Man__t__.html#ace4fd26de5d1ceaeeedfcbad5cdbd540", null ],
+    [ "pManDec", "dc/def/structRef__Man__t__.html#a6a48d10508566d001e6424a31d349808", null ],
+    [ "pPars", "dc/def/structRef__Man__t__.html#a239865acd2facf6cd363ed6213c87dce", null ],
+    [ "timeCuts", "dc/def/structRef__Man__t__.html#a0235a1977b8ae9d323ce3a7df61528c6", null ],
+    [ "timeEval", "dc/def/structRef__Man__t__.html#a3639d8665997135531e384402e19ac18", null ],
+    [ "timeOther", "dc/def/structRef__Man__t__.html#a21238d67263919b717ca690345b494f9", null ],
+    [ "timeTotal", "dc/def/structRef__Man__t__.html#aa430bc0d3f817af5479c8ef5bd928581", null ],
+    [ "vCutNodes", "dc/def/structRef__Man__t__.html#aa63edc49a6cb74d2835712785af24050", null ],
+    [ "vCuts", "dc/def/structRef__Man__t__.html#af656fc2997be449fa5c322f412948514", null ],
+    [ "vLeavesBest", "dc/def/structRef__Man__t__.html#a6ff025a84ff376607b686fe4be2f0401", null ],
+    [ "vMemory", "dc/def/structRef__Man__t__.html#ae469a4d3b063a318b51a49da775f9023", null ],
+    [ "vTruthElem", "dc/def/structRef__Man__t__.html#a0a143d73074124e4fcfe36318596d63d", null ],
+    [ "vTruthStore", "dc/def/structRef__Man__t__.html#a94a05440ff27114fecbde6d114411925", null ]
+];

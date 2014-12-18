@@ -1,0 +1,27 @@
+var structCec__ManSat__t__ =
+[
+    [ "nCallsSince", "d2/d22/structCec__ManSat__t__.html#a0628fb19838406a86029c8b62249901b", null ],
+    [ "nCexLits", "d2/d22/structCec__ManSat__t__.html#adf944279a3419f4f36e3ff06e7e637d2", null ],
+    [ "nConfSat", "d2/d22/structCec__ManSat__t__.html#a9c1919ae111664a01e3a4934a4a02e16", null ],
+    [ "nConfUndec", "d2/d22/structCec__ManSat__t__.html#a47f71cabdb08ff166f4e904e8acfc8cc", null ],
+    [ "nConfUnsat", "d2/d22/structCec__ManSat__t__.html#a4e1518a3c980aa9a24397243e81506b6", null ],
+    [ "nRecycles", "d2/d22/structCec__ManSat__t__.html#a02678d9e16e05383a1e9b2a780395888", null ],
+    [ "nSatSat", "d2/d22/structCec__ManSat__t__.html#a7ca55e378edf7ec66a9791321cc6eb67", null ],
+    [ "nSatTotal", "d2/d22/structCec__ManSat__t__.html#a26cb64874c6ca59a658553f158155f42", null ],
+    [ "nSatUndec", "d2/d22/structCec__ManSat__t__.html#accd92f224cdc2f0e772f6f2eeb7adf38", null ],
+    [ "nSatUnsat", "d2/d22/structCec__ManSat__t__.html#aa9edf9d8da7fa8bc25a379df787cb784", null ],
+    [ "nSatVars", "d2/d22/structCec__ManSat__t__.html#a3f2b97a3547126bc157bb285d6dc9ff3", null ],
+    [ "pAig", "d2/d22/structCec__ManSat__t__.html#ae9d783e0d7b49ca7d8251df0f3499e5a", null ],
+    [ "pPars", "d2/d22/structCec__ManSat__t__.html#a1b609ca41033cbb9ab534521419883cd", null ],
+    [ "pSat", "d2/d22/structCec__ManSat__t__.html#a77e4dfa15868bdff3226536b8c0ee205", null ],
+    [ "pSatVars", "d2/d22/structCec__ManSat__t__.html#a0e8bbf76496182169c741914d1d5abcf", null ],
+    [ "timeSatSat", "d2/d22/structCec__ManSat__t__.html#a86c513c7c93ccc5fa70e1d7498a9d760", null ],
+    [ "timeSatUndec", "d2/d22/structCec__ManSat__t__.html#af76357dfc297d85da2d2677c836f9d4d", null ],
+    [ "timeSatUnsat", "d2/d22/structCec__ManSat__t__.html#a634b29574ffa7a1390e9c5ae79fdaa02", null ],
+    [ "timeTotal", "d2/d22/structCec__ManSat__t__.html#a79fd61b40a3fd4aaa7c2704c30091008", null ],
+    [ "vCex", "d2/d22/structCec__ManSat__t__.html#a4668fa9c3caa5ba0cd3c51657f746a8f", null ],
+    [ "vFanins", "d2/d22/structCec__ManSat__t__.html#af7f95fca3b18fd7b8696a50b97a4c7b7", null ],
+    [ "vStatus", "d2/d22/structCec__ManSat__t__.html#a698c52fa9fe76a6378403bedac8b20bc", null ],
+    [ "vUsedNodes", "d2/d22/structCec__ManSat__t__.html#a57768fe64d9c03b10a27f96bec66eb6b", null ],
+    [ "vVisits", "d2/d22/structCec__ManSat__t__.html#a177fe49bdb98e8670df2d8bf226e0266", null ]
+];

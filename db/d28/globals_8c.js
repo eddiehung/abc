@@ -1,0 +1,28 @@
+var globals_8c =
+[
+    [ "bit_count", "db/d28/globals_8c.html#a8d7589b7a0065d51442352bbf417f28a", null ],
+    [ "debug", "db/d28/globals_8c.html#aadf5b752daa5ad2aa816beec997c6512", null ],
+    [ "echo_comments", "db/d28/globals_8c.html#aeecc02977133621fc94785ad00088666", null ],
+    [ "echo_unknown_commands", "db/d28/globals_8c.html#a47fb761882d64b0889b07129d70abb30", null ],
+    [ "filename", "db/d28/globals_8c.html#aeac90097f29f7529968697163cea5c18", null ],
+    [ "force_irredundant", "db/d28/globals_8c.html#ac77208748ea533395796d15c72f4e4d3", null ],
+    [ "kiss", "db/d28/globals_8c.html#a640f4ce5a99c0ab03d276d359e7e5514", null ],
+    [ "pla_types", "db/d28/globals_8c.html#a6d30b45b642022f3c9eb2f1fe2f180d3", null ],
+    [ "pos", "db/d28/globals_8c.html#ad503362748b16f35d294c5b0490204be", null ],
+    [ "print_solution", "db/d28/globals_8c.html#a8fabb69ad90a20422c4cc0c0ff3fb5ea", null ],
+    [ "recompute_onset", "db/d28/globals_8c.html#a37c1859289354a6c2b15fa537f748c35", null ],
+    [ "remove_essential", "db/d28/globals_8c.html#aa59b6271e62f8061846b44d2155bc35c", null ],
+    [ "single_expand", "db/d28/globals_8c.html#a6e633656d61fb7dc374ef07614d2ab8b", null ],
+    [ "skip_make_sparse", "db/d28/globals_8c.html#a95bc1739028b9d0acacd73af99284b8b", null ],
+    [ "summary", "db/d28/globals_8c.html#aa20c3fd9386d6b786b1aa6e58b1d2c47", null ],
+    [ "temp_cdata_save", "db/d28/globals_8c.html#a6d3367572e290d061e28892a34fc157c", null ],
+    [ "temp_cube_save", "db/d28/globals_8c.html#a0a44682aca63f541d4bbb0a37154c04c", null ],
+    [ "total_calls", "db/d28/globals_8c.html#a655e07806bc1c89062416250895e5ff8", null ],
+    [ "total_name", "db/d28/globals_8c.html#ad9d475afd012820e7e7a653e4b38eeb6", null ],
+    [ "total_time", "db/d28/globals_8c.html#a7db0e7f96c1680533e3a5d2ed25c3034", null ],
+    [ "trace", "db/d28/globals_8c.html#a7b36472a0720086e00a542efeb6f5f7a", null ],
+    [ "unwrap_onset", "db/d28/globals_8c.html#ae5dd6498e4fbfa41da4c542ce33ed06b", null ],
+    [ "use_random_order", "db/d28/globals_8c.html#acdd0285960dd4b85fec1f46c4edc7261", null ],
+    [ "use_super_gasp", "db/d28/globals_8c.html#ac0aa3514842bbb953a44a22a673b58bb", null ],
+    [ "verbose_debug", "db/d28/globals_8c.html#aa4949de33718984eb9eba135672c60b9", null ]
+];

@@ -1,0 +1,28 @@
+var structSwp__Man__t__ =
+[
+    [ "nConfMax", "d6/d2b/structSwp__Man__t__.html#aade033cf5488fef904766c17d198df92", null ],
+    [ "nSatCalls", "d6/d2b/structSwp__Man__t__.html#a1f135d7da726754832c714a3ea9f4a07", null ],
+    [ "nSatCallsSat", "d6/d2b/structSwp__Man__t__.html#acbba2d655633a4daff28fba6e6c82a5d", null ],
+    [ "nSatCallsUndec", "d6/d2b/structSwp__Man__t__.html#a3f58459bbc127bff27d6e7c5d65d341e", null ],
+    [ "nSatCallsUnsat", "d6/d2b/structSwp__Man__t__.html#afd13501d0268589ce504381a92ebad85", null ],
+    [ "nSatProofs", "d6/d2b/structSwp__Man__t__.html#add75ae4dff23c7098edbb1d5ac479bb2", null ],
+    [ "nSatVars", "d6/d2b/structSwp__Man__t__.html#ae726597e126479e3c693da0f8586983f", null ],
+    [ "nTimeOut", "d6/d2b/structSwp__Man__t__.html#a8d04b5767f8e54da3cdcbd4bcad76a95", null ],
+    [ "pGia", "d6/d2b/structSwp__Man__t__.html#a8252c3455230ac959c45487edd8008e6", null ],
+    [ "pSat", "d6/d2b/structSwp__Man__t__.html#ac7a5a2bfd479e29cefdffe6a121c2ef9", null ],
+    [ "timeCnf", "d6/d2b/structSwp__Man__t__.html#a39ed01b3688186b9cc377492788ce43f", null ],
+    [ "timeSat", "d6/d2b/structSwp__Man__t__.html#a0445ebefeecad8019ef1afaac23cdb1a", null ],
+    [ "timeSatSat", "d6/d2b/structSwp__Man__t__.html#a8da9a97857c2f01ef88030d844ceabe8", null ],
+    [ "timeSatUndec", "d6/d2b/structSwp__Man__t__.html#a671638d1fb58cf7212ab7091607eb37c", null ],
+    [ "timeSatUnsat", "d6/d2b/structSwp__Man__t__.html#a8a3e57bd7416059077c82ba16902240b", null ],
+    [ "timeStart", "d6/d2b/structSwp__Man__t__.html#af5c5e834d7bd4f53065ee76f36f5a98a", null ],
+    [ "timeTotal", "d6/d2b/structSwp__Man__t__.html#a3a964c000d058b47cdb8afe4a668601e", null ],
+    [ "vCexSwp", "d6/d2b/structSwp__Man__t__.html#a886fce7053840326fe6f5aec5da49bf8", null ],
+    [ "vCexUser", "d6/d2b/structSwp__Man__t__.html#a57d868fb33fa64003144ff0b0c3586c6", null ],
+    [ "vCondAssump", "d6/d2b/structSwp__Man__t__.html#a1ebfbd0506da87ec47af4deb50555416", null ],
+    [ "vCondProbes", "d6/d2b/structSwp__Man__t__.html#a3fc2f278e758fbe6e7fef4c2d70aea77", null ],
+    [ "vFanins", "d6/d2b/structSwp__Man__t__.html#a604169111bf8dadb22af41b2f95e5009", null ],
+    [ "vFront", "d6/d2b/structSwp__Man__t__.html#a994e0f9bd3463396f7058db5ac0da1a2", null ],
+    [ "vId2Lit", "d6/d2b/structSwp__Man__t__.html#a98c89ab24cc6d9b139cbca514a1ef1ee", null ],
+    [ "vProbes", "d6/d2b/structSwp__Man__t__.html#a5431b06be0fa2f75cc131e5861686614", null ]
+];

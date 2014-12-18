@@ -1,0 +1,28 @@
+var structFra__Par__t__ =
+[
+    [ "dActConeBumpMax", "da/d95/structFra__Par__t__.html#a16bc53a0b7e6c07b1b8e5f1243df76ae", null ],
+    [ "dActConeRatio", "da/d95/structFra__Par__t__.html#a66ff90f5cf7ee10589473ef7d8d89817", null ],
+    [ "dSimSatur", "da/d95/structFra__Par__t__.html#ab140ca7e589e7fb07d259bb8c96e6e89", null ],
+    [ "fChoicing", "da/d95/structFra__Par__t__.html#aff79243740516fecbdbbeaacd9febfd2", null ],
+    [ "fConeBias", "da/d95/structFra__Par__t__.html#a0dd3c3ec9fba7e77b412b0dba313a3ce", null ],
+    [ "fDontShowBar", "da/d95/structFra__Par__t__.html#ab9cbcfe7d8ae9a17e41029f06e39e5c6", null ],
+    [ "fDoSparse", "da/d95/structFra__Par__t__.html#ac5b3210e5fda9c56562d5a0eded95e11", null ],
+    [ "fLatchCorr", "da/d95/structFra__Par__t__.html#aeb6cb735a487919a1ebfc60e97ce6380", null ],
+    [ "fPatScores", "da/d95/structFra__Par__t__.html#a112d126ef1b01d0bd07950609b921cc5", null ],
+    [ "fProve", "da/d95/structFra__Par__t__.html#aa4f2afb181e23b8d00c68ebec7b38c0d", null ],
+    [ "fRewrite", "da/d95/structFra__Par__t__.html#a597075e5b90e57127a97529d62451edd", null ],
+    [ "fSpeculate", "da/d95/structFra__Par__t__.html#ae62802e5f79243a6696f2583f28454f7", null ],
+    [ "fUse1Hot", "da/d95/structFra__Par__t__.html#a4e3de74af61507ebf357c7fae2bfee63", null ],
+    [ "fUseImps", "da/d95/structFra__Par__t__.html#aabf4ad97ce30e268f7c58ce8ca53e9b3", null ],
+    [ "fVerbose", "da/d95/structFra__Par__t__.html#ad8aa3347babd21ad557be29f0dd3b4da", null ],
+    [ "fWriteImps", "da/d95/structFra__Par__t__.html#a8ecf36052a88a813c5eb3188bfa37d3f", null ],
+    [ "MaxScore", "da/d95/structFra__Par__t__.html#a5e0459ac242844d0fb4eccc7d2863814", null ],
+    [ "nBTLimitMiter", "da/d95/structFra__Par__t__.html#a40a40456765e850e35325e9645cc080b", null ],
+    [ "nBTLimitNode", "da/d95/structFra__Par__t__.html#a6396f9a2e3ba72f0869a2687ce3a6cf1", null ],
+    [ "nFramesK", "da/d95/structFra__Par__t__.html#a79aaa2a4281446ec6ec56814d79b8c65", null ],
+    [ "nFramesP", "da/d95/structFra__Par__t__.html#ad0829429e073e7deba07c7379adad068", null ],
+    [ "nLevelMax", "da/d95/structFra__Par__t__.html#a15cd9d039bbc9b24cc6579c204b8ccd8", null ],
+    [ "nMaxImps", "da/d95/structFra__Par__t__.html#a439d0f51b165bfe8400189911a200307", null ],
+    [ "nMaxLevs", "da/d95/structFra__Par__t__.html#ada8be5cb2658dd4914724757e5014292", null ],
+    [ "nSimWords", "da/d95/structFra__Par__t__.html#a6a2e14f8a78623bb75d2da0e90c231c7", null ]
+];

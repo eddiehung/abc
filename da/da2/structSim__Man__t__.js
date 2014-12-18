@@ -1,0 +1,28 @@
+var structSim__Man__t__ =
+[
+    [ "fLightweight", "da/da2/structSim__Man__t__.html#afd78f4853e188b5c7d3a4ccc505db95b", null ],
+    [ "iInput", "da/da2/structSim__Man__t__.html#ac3684e9f7878caceddc2a1fdd2badf12", null ],
+    [ "nInputs", "da/da2/structSim__Man__t__.html#a55bbcf1c879a3ba8a1f96e50eeeefa25", null ],
+    [ "nOutputs", "da/da2/structSim__Man__t__.html#a2c7dd1ade1dcf51edb4c2c4d2f7579bc", null ],
+    [ "nSatRuns", "da/da2/structSim__Man__t__.html#ae9a2e0c87a14ba05613f0659023fb1f3", null ],
+    [ "nSatRunsSat", "da/da2/structSim__Man__t__.html#aee4b1b22dfbe8b99b893100ce80e270b", null ],
+    [ "nSatRunsUnsat", "da/da2/structSim__Man__t__.html#ab0183098906c8bd8e10c60a99719c0df", null ],
+    [ "nSimBits", "da/da2/structSim__Man__t__.html#acdc9f66fdebbf9da24b0aea9bee06dd0", null ],
+    [ "nSimWords", "da/da2/structSim__Man__t__.html#a45eff45acb0d4a28010a0cead2fd544c", null ],
+    [ "nSuppBits", "da/da2/structSim__Man__t__.html#a5d8db7f60284b44a77bb687eb8f433cf", null ],
+    [ "nSuppWords", "da/da2/structSim__Man__t__.html#a8ab4dcbe6b844290cf1f2a6653f2232e", null ],
+    [ "pMmPat", "da/da2/structSim__Man__t__.html#ab561f5514131362733f57d2d3630201f", null ],
+    [ "pNtk", "da/da2/structSim__Man__t__.html#a7348f8d99d91711adf2f807993f92bd5", null ],
+    [ "timeFraig", "da/da2/structSim__Man__t__.html#a94469d4013ac3ae36220ff564f299790", null ],
+    [ "timeSat", "da/da2/structSim__Man__t__.html#afb19752a3a74a695fe8a0d164cd0c01d", null ],
+    [ "timeSim", "da/da2/structSim__Man__t__.html#a4343ee22c840c4988abed0e03e8440b8", null ],
+    [ "timeTotal", "da/da2/structSim__Man__t__.html#aec232e88739a591f88b4379d0aa110fe", null ],
+    [ "timeTrav", "da/da2/structSim__Man__t__.html#a2882e36ba4b5353b6d366b026e6a9363", null ],
+    [ "vDiffs", "da/da2/structSim__Man__t__.html#af1fe0ed3cd0146461dcc23ff7df46f08", null ],
+    [ "vFifo", "da/da2/structSim__Man__t__.html#aecfe6ffb40c7ec42334b4b8632aa1d9c", null ],
+    [ "vSim0", "da/da2/structSim__Man__t__.html#ac8f246ce40fa3e3398f9085d08142c21", null ],
+    [ "vSim1", "da/da2/structSim__Man__t__.html#a5719e744a7d45b12759b005cf392412d", null ],
+    [ "vSuppFun", "da/da2/structSim__Man__t__.html#afeeadd5822bd818d5b566e9b9a4f38d0", null ],
+    [ "vSuppStr", "da/da2/structSim__Man__t__.html#a139be88309d803567561357b81110bea", null ],
+    [ "vSuppTargs", "da/da2/structSim__Man__t__.html#a6bab724c4af21b90c1f4421b37cce902", null ]
+];

@@ -1,0 +1,28 @@
+var structSaig__MvMan__t__ =
+[
+    [ "nFlops", "d7/dff/structSaig__MvMan__t__.html#ace5e1422fb4ab66898b6f821838b299d", null ],
+    [ "nLevelsMax", "d7/dff/structSaig__MvMan__t__.html#a823619ca62f8eefa7dd6204827975a40", null ],
+    [ "nObjs", "d7/dff/structSaig__MvMan__t__.html#a3a3bcc7a26bc53729b2889d89d827df4", null ],
+    [ "nObjsAlloc", "d7/dff/structSaig__MvMan__t__.html#a913ae1131b73a08d2044fe3670ce060f", null ],
+    [ "nPis", "d7/dff/structSaig__MvMan__t__.html#a8c46d8757d2f9051ed2e4dd527f64959", null ],
+    [ "nRegsValues", "d7/dff/structSaig__MvMan__t__.html#aa04bfcb6ef354a51bedf31533269187c", null ],
+    [ "nRUndefs", "d7/dff/structSaig__MvMan__t__.html#a24a0288a477d1c0b59cefb6bcb5fd511", null ],
+    [ "nRValues", "d7/dff/structSaig__MvMan__t__.html#a0391647681c82e505a1b5107ec4a5b01", null ],
+    [ "nStatesMax", "d7/dff/structSaig__MvMan__t__.html#a13d563ef0a3d2e0ece50f9ca4e4d87bb", null ],
+    [ "nTNodesSize", "d7/dff/structSaig__MvMan__t__.html#a0942f85aca1c01ee25c3b3334e68861f", null ],
+    [ "nTStatesSize", "d7/dff/structSaig__MvMan__t__.html#a4f59caea570bcee102ff890e53263d7c", null ],
+    [ "nValuesMax", "d7/dff/structSaig__MvMan__t__.html#a1db074bfab3a60485f7ba8ca3b6488f4", null ],
+    [ "pAig", "d7/dff/structSaig__MvMan__t__.html#a0feb2fdf69931b1d1fbd895f68437705", null ],
+    [ "pAigNew", "d7/dff/structSaig__MvMan__t__.html#a56c4f89e1a7f88f7af65189ecd4fd935", null ],
+    [ "pAigOld", "d7/dff/structSaig__MvMan__t__.html#a2bc7f1ae53d2d231dc9e3d382aa26709", null ],
+    [ "pLevels", "d7/dff/structSaig__MvMan__t__.html#a8592ec5a2da9843679db07296c099360", null ],
+    [ "pMemStates", "d7/dff/structSaig__MvMan__t__.html#a7ed915f7cde41b03c847a57732cb54cf", null ],
+    [ "pRegsUndef", "d7/dff/structSaig__MvMan__t__.html#a3f493b8e2cb6770f822620a8cc402cd2", null ],
+    [ "pRegsValues", "d7/dff/structSaig__MvMan__t__.html#a916db57b41316ef1529d170e559d9bb8", null ],
+    [ "pTNodes", "d7/dff/structSaig__MvMan__t__.html#afadc325e80a59497e354b9390c4653ca", null ],
+    [ "pTStates", "d7/dff/structSaig__MvMan__t__.html#a0326b036807ca42733d6911e88e3f288", null ],
+    [ "vFlops", "d7/dff/structSaig__MvMan__t__.html#aa3d627eecccf252f4c6ea6af5fa2a139", null ],
+    [ "vStates", "d7/dff/structSaig__MvMan__t__.html#ad8077acc8494d58028b2a0049bb7aad0", null ],
+    [ "vTired", "d7/dff/structSaig__MvMan__t__.html#ae8dff6a95eab59b9ac77059535272f66", null ],
+    [ "vXFlops", "d7/dff/structSaig__MvMan__t__.html#a17478c92e0e8223849a36b408a25cf07", null ]
+];

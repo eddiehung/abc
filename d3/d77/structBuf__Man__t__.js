@@ -1,0 +1,27 @@
+var structBuf__Man__t__ =
+[
+    [ "DelayInv", "d3/d77/structBuf__Man__t__.html#a5d42cafd9d515b1111e20c3627b6db1e", null ],
+    [ "DelayMax", "d3/d77/structBuf__Man__t__.html#a70a28c7898e490e73821e3211a15a87a", null ],
+    [ "fBufPis", "d3/d77/structBuf__Man__t__.html#ace10df6cfc3af1ae9a7ebdaac27fd5c7", null ],
+    [ "nBranch0", "d3/d77/structBuf__Man__t__.html#a42aa0e3bccb7e5586a8f7bacad21f276", null ],
+    [ "nBranch1", "d3/d77/structBuf__Man__t__.html#af5f747834cb395836aa8c7c7283436db", null ],
+    [ "nBranchCrit", "d3/d77/structBuf__Man__t__.html#aa9f25818771ef2129e8adc533a4eab9c", null ],
+    [ "nDuplicate", "d3/d77/structBuf__Man__t__.html#a6af08c4d952ffae61d26f8ab91ab3891", null ],
+    [ "nFanMax", "d3/d77/structBuf__Man__t__.html#acd52379c8bd21098c7a3d99bb2f06ddf", null ],
+    [ "nFanMin", "d3/d77/structBuf__Man__t__.html#ae8eb74bd7041e4e2d001564b3114b239", null ],
+    [ "nObjAlloc", "d3/d77/structBuf__Man__t__.html#a8230cd0300dade5d04639e41a98d263f", null ],
+    [ "nObjStart", "d3/d77/structBuf__Man__t__.html#a918f77ab7f7e50060a101a5e1e4ca0e8", null ],
+    [ "nSeparate", "d3/d77/structBuf__Man__t__.html#a85c720a956e6c378e42325cb0829393b", null ],
+    [ "pNtk", "d3/d77/structBuf__Man__t__.html#afd42622122ed136c63b06268c01b86b9", null ],
+    [ "vArr", "d3/d77/structBuf__Man__t__.html#a14d4525a876f1205c97932322fd8d11e", null ],
+    [ "vCounts", "d3/d77/structBuf__Man__t__.html#a7d725c493deb2978bcee43009c23a21b", null ],
+    [ "vDelays", "d3/d77/structBuf__Man__t__.html#ad3ff7db8c80b246e0cefd888f4a9bb7d", null ],
+    [ "vDep", "d3/d77/structBuf__Man__t__.html#a84370b42a1c81586f95911d54a0e86cf", null ],
+    [ "vEdges", "d3/d77/structBuf__Man__t__.html#a06d767aad7c05763ebf160fb02326f0d", null ],
+    [ "vFanouts", "d3/d77/structBuf__Man__t__.html#afa413a75e4c2fdfa1cd7ea5b54be655b", null ],
+    [ "vNonCrit", "d3/d77/structBuf__Man__t__.html#ab25256c3931b1df07f7578b3de3c6e0e", null ],
+    [ "vOffsets", "d3/d77/structBuf__Man__t__.html#a908e124336d7a554cf564f844c0d48a1", null ],
+    [ "vOrder", "d3/d77/structBuf__Man__t__.html#af1977f6b3478e4155314edcce90b38da", null ],
+    [ "vQue", "d3/d77/structBuf__Man__t__.html#abb2dd3a14a5e12b684bd3a4c3eeb9242", null ],
+    [ "vTfCone", "d3/d77/structBuf__Man__t__.html#ae784f9146cc1cdbeda778387012adaa2", null ]
+];

@@ -1,0 +1,28 @@
+var giaTim_8c =
+[
+    [ "Gia_ManBoxCiNum", "d3/dc8/giaTim_8c.html#a305789e60e00c68747e634ab4ecd635d", null ],
+    [ "Gia_ManBoxCoNum", "d3/dc8/giaTim_8c.html#aef0737e940d0c522f6aa462d69dd8704", null ],
+    [ "Gia_ManBoxNum", "d3/dc8/giaTim_8c.html#a7032a6b3a624aa1cce9258f1c992ddd1", null ],
+    [ "Gia_ManCleanupRemap", "d3/dc8/giaTim_8c.html#ab52a690d0959b07c99280424f509794e", null ],
+    [ "Gia_ManClockDomainNum", "d3/dc8/giaTim_8c.html#ad0055430ee76f500ea76822eeca0c0aa", null ],
+    [ "Gia_ManDupCollapse", "d3/dc8/giaTim_8c.html#a30a4d9675087fbdba0a80fae9debd5c2", null ],
+    [ "Gia_ManDupCollapse_rec", "d3/dc8/giaTim_8c.html#aa6f564ce749d6eeb8cb917bf3429ee63", null ],
+    [ "Gia_ManDupNormalize", "d3/dc8/giaTim_8c.html#a2531190b468a02ed5577a4ad1ed951ef", null ],
+    [ "Gia_ManDupUnnormalize", "d3/dc8/giaTim_8c.html#a0663d2e39dc3e3270d84660cd377be8b", null ],
+    [ "Gia_ManDupUnshuffleInputs", "d3/dc8/giaTim_8c.html#afec68f95b1a6acb7b48fceb825b869a6", null ],
+    [ "Gia_ManIsNormalized", "d3/dc8/giaTim_8c.html#a2047fff47f22bae402f6d16dc8aa2733", null ],
+    [ "Gia_ManIsSeqWithBoxes", "d3/dc8/giaTim_8c.html#a66ac5f0739c7cf7114c881e5a0111520", null ],
+    [ "Gia_ManLevelWithBoxes", "d3/dc8/giaTim_8c.html#a5591c6c97af161305815a3ddb1d06dfd", null ],
+    [ "Gia_ManLevelWithBoxes_rec", "d3/dc8/giaTim_8c.html#a63edb167d1f99aa2ee4372ff6820e2a0", null ],
+    [ "Gia_ManLutLevelWithBoxes", "d3/dc8/giaTim_8c.html#ab28241cb3329cdc308df0c23f926d93d", null ],
+    [ "Gia_ManLutLevelWithBoxes_rec", "d3/dc8/giaTim_8c.html#a7d157317f2f403ba66008de5e69a2ee8", null ],
+    [ "Gia_ManNonRegBoxNum", "d3/dc8/giaTim_8c.html#a0ca944bf9c9844327ff4f8785aadee95", null ],
+    [ "Gia_ManOrderWithBoxes", "d3/dc8/giaTim_8c.html#a3c8eb94ccde71c74bc3d28bfed235a82", null ],
+    [ "Gia_ManOrderWithBoxes_rec", "d3/dc8/giaTim_8c.html#ad0385e31b447b6da45450250b6e28cce", null ],
+    [ "Gia_ManRegBoxNum", "d3/dc8/giaTim_8c.html#a1f61cae429d851a69f9d67cf344d0318", null ],
+    [ "Gia_ManUpdateExtraAig", "d3/dc8/giaTim_8c.html#ae7d01142c400f5ed29e3543e2aeff4f3", null ],
+    [ "Gia_ManUpdateExtraAig2", "d3/dc8/giaTim_8c.html#a0124be558c1132559429a055c3b5d9dc", null ],
+    [ "Gia_ManUpdateTimMan", "d3/dc8/giaTim_8c.html#ae1bb176e1a0ece735af4479117a866ca", null ],
+    [ "Gia_ManUpdateTimMan2", "d3/dc8/giaTim_8c.html#a1b1ec4d3df79d043595086a083c26f5f", null ],
+    [ "Gia_ManVerifyWithBoxes", "d3/dc8/giaTim_8c.html#a2aefcefa7a9cd3ee90041673a8bf9e3a", null ]
+];

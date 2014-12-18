@@ -1,0 +1,26 @@
+var structAbc__RRMan__t__ =
+[
+    [ "nEdgesRemoved", "d4/df3/structAbc__RRMan__t__.html#aafb589871f3ff45c2ea97b69b7a263bd", null ],
+    [ "nEdgesTried", "d4/df3/structAbc__RRMan__t__.html#ae4d6566f94f8d9b6675cdd0d147cffb2", null ],
+    [ "nFaninLevels", "d4/df3/structAbc__RRMan__t__.html#ac3bebb75b14f33a660813bea9009f82d", null ],
+    [ "nFanoutLevels", "d4/df3/structAbc__RRMan__t__.html#a908598ddab83140a6c0d3764807f8187", null ],
+    [ "nLevelsOld", "d4/df3/structAbc__RRMan__t__.html#a5134879dfb0bd9301615f16bc3158b51", null ],
+    [ "nNodesOld", "d4/df3/structAbc__RRMan__t__.html#aa6cb88f20d5e45147098db48f79d950a", null ],
+    [ "pFanin", "d4/df3/structAbc__RRMan__t__.html#aafe1600f6fe0ca80c7fabe6320ecf604", null ],
+    [ "pFanout", "d4/df3/structAbc__RRMan__t__.html#ab4590ac4d3b20fb793c17ed185979175", null ],
+    [ "pMiter", "d4/df3/structAbc__RRMan__t__.html#a0f62d3e3f3188b8146eea79b5be7478b", null ],
+    [ "pNode", "d4/df3/structAbc__RRMan__t__.html#ad069b0036ee47b455545bf26fa3ec3f5", null ],
+    [ "pNtk", "d4/df3/structAbc__RRMan__t__.html#aa6bd05672e41fcb3cc2e0cd83da2abfd", null ],
+    [ "pParams", "d4/df3/structAbc__RRMan__t__.html#aa602f63ae7ee324a414b4caeb0abc701", null ],
+    [ "pWnd", "d4/df3/structAbc__RRMan__t__.html#a2bd06a84195d58060b4d81dece27e1f9", null ],
+    [ "timeMiter", "d4/df3/structAbc__RRMan__t__.html#a6ad52342e26a4a879e47777e17845ee1", null ],
+    [ "timeProve", "d4/df3/structAbc__RRMan__t__.html#a68681132fb646d441692491161da32fb", null ],
+    [ "timeTotal", "d4/df3/structAbc__RRMan__t__.html#a7781c2a58a7333da88c48935b3d2002c", null ],
+    [ "timeUpdate", "d4/df3/structAbc__RRMan__t__.html#a7f3c49cc648912d78e955f5c4e6526a8", null ],
+    [ "timeWindow", "d4/df3/structAbc__RRMan__t__.html#af299d8836b549916e3d323d2d1239e11", null ],
+    [ "vCone", "d4/df3/structAbc__RRMan__t__.html#a1a8f1e7b61827898d2910ef4ca15780e", null ],
+    [ "vFaninLeaves", "d4/df3/structAbc__RRMan__t__.html#ae40d4b4bb1dc4dfab9741979ae1419ac", null ],
+    [ "vFanoutRoots", "d4/df3/structAbc__RRMan__t__.html#a09e4b4f423765c6f7993914c2c0eebb2", null ],
+    [ "vLeaves", "d4/df3/structAbc__RRMan__t__.html#a0ef5ec49d8f44c18d987243b3f0a41c1", null ],
+    [ "vRoots", "d4/df3/structAbc__RRMan__t__.html#abfabb6c048be2eefa93f17ff221e9555", null ]
+];

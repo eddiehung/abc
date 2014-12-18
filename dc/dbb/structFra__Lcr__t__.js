@@ -1,0 +1,25 @@
+var structFra__Lcr__t__ =
+[
+    [ "fRefining", "dc/dbb/structFra__Lcr__t__.html#ad71ac7e9c6e327571896171651d40059", null ],
+    [ "fVerbose", "dc/dbb/structFra__Lcr__t__.html#a7f5e4f6039be752f53ca9512d5b3008d", null ],
+    [ "nFramesP", "dc/dbb/structFra__Lcr__t__.html#a908ed9d1a6ac1ef3cc826133ff8c9db3", null ],
+    [ "nIters", "dc/dbb/structFra__Lcr__t__.html#ae6f07bb9840d0156bc0034fc5f07a2df", null ],
+    [ "nLitsBeg", "dc/dbb/structFra__Lcr__t__.html#a0c74e0c7f1267094415f320782769454", null ],
+    [ "nLitsEnd", "dc/dbb/structFra__Lcr__t__.html#a73ad055dbd0050a15e3d02df282f6c88", null ],
+    [ "nNodesBeg", "dc/dbb/structFra__Lcr__t__.html#abbf74c0384b6cc34ad0561fadb1af887", null ],
+    [ "nNodesEnd", "dc/dbb/structFra__Lcr__t__.html#a5dab2f92ed92f382ccbe03909abf6033", null ],
+    [ "nRegsBeg", "dc/dbb/structFra__Lcr__t__.html#afde54a92c9eff8530720eee85ea90139", null ],
+    [ "nRegsEnd", "dc/dbb/structFra__Lcr__t__.html#ae028fe6ad4dce7cfc91fb3750b9fba6e", null ],
+    [ "pAig", "dc/dbb/structFra__Lcr__t__.html#a2e0eae21f6eecbaa42bc43ff4d7f8234", null ],
+    [ "pCla", "dc/dbb/structFra__Lcr__t__.html#aae66f15589f9fc4850a28747e84bd374", null ],
+    [ "pInToOutNum", "dc/dbb/structFra__Lcr__t__.html#acaaa7ab9fe7b1a4f6c46e22daf79c795", null ],
+    [ "pInToOutPart", "dc/dbb/structFra__Lcr__t__.html#ab1a8eceac5cc9d8c0d12fdcd86b261a7", null ],
+    [ "timeFraig", "dc/dbb/structFra__Lcr__t__.html#ae24fcaa673f6fd4a5c088739be31529f", null ],
+    [ "timePart", "dc/dbb/structFra__Lcr__t__.html#a55d43954321f60c48480cf49e7989143", null ],
+    [ "timeSim", "dc/dbb/structFra__Lcr__t__.html#a780003747cce3a2037151983a411cf64", null ],
+    [ "timeTotal", "dc/dbb/structFra__Lcr__t__.html#ad9685168beaeb245c5c73bd2093a5fae", null ],
+    [ "timeTrav", "dc/dbb/structFra__Lcr__t__.html#a689939f95c95cd61f03ce265150dc234", null ],
+    [ "timeUpdate", "dc/dbb/structFra__Lcr__t__.html#af871a524d58aab1100e0eea0fc8aebf2", null ],
+    [ "vFraigs", "dc/dbb/structFra__Lcr__t__.html#a4da43c41e16eb327df560931d5aecac5", null ],
+    [ "vParts", "dc/dbb/structFra__Lcr__t__.html#a8d7eb6903d1312de2c4ece8d9c6a80cb", null ]
+];

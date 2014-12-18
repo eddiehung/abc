@@ -1,0 +1,28 @@
+var fraClass_8c =
+[
+    [ "Fra_ClassCount", "d1/d6c/fraClass_8c.html#ad2a698f9e332f57c4892d34b46c135ee", null ],
+    [ "Fra_ClassesCopyReprs", "d1/d6c/fraClass_8c.html#a01b9132f0d5afa21390d46e8da4b5dc3", null ],
+    [ "Fra_ClassesCountLits", "d1/d6c/fraClass_8c.html#a75689a911290c5fe11b5a85bdaebe1b4", null ],
+    [ "Fra_ClassesCountPairs", "d1/d6c/fraClass_8c.html#aa1ff01819259967ac479c88e83f5915d", null ],
+    [ "Fra_ClassesDeriveAig", "d1/d6c/fraClass_8c.html#ae5d3d6d6902605a3983f8999d2d8fd94", null ],
+    [ "Fra_ClassesDeriveNode", "d1/d6c/fraClass_8c.html#a23ee29f9cef6823f4b94d006d53ab639", null ],
+    [ "Fra_ClassesLatchCorr", "d1/d6c/fraClass_8c.html#a8c385a2e96661e8244c2abb2ca048706", null ],
+    [ "Fra_ClassesPostprocess", "d1/d6c/fraClass_8c.html#a82bec2f1e247321a3429c04d269576c1", null ],
+    [ "Fra_ClassesPrepare", "d1/d6c/fraClass_8c.html#a3fa04ddc114b5ec7d13d865b76fbc7bf", null ],
+    [ "Fra_ClassesPrint", "d1/d6c/fraClass_8c.html#ac6a79a54aaf9eac1ce0af377053ba7e3", null ],
+    [ "Fra_ClassesRefine", "d1/d6c/fraClass_8c.html#a748cc552b1a880afdc1158dee2478d48", null ],
+    [ "Fra_ClassesRefine1", "d1/d6c/fraClass_8c.html#a01b62c17a22087fb7034321e5dcde9ce", null ],
+    [ "Fra_ClassesSelectRepr", "d1/d6c/fraClass_8c.html#a95d4208c584f00b4cf37f975497210ab", null ],
+    [ "Fra_ClassesStart", "d1/d6c/fraClass_8c.html#aec43174624eef54f647a5343b5ead776", null ],
+    [ "Fra_ClassesStop", "d1/d6c/fraClass_8c.html#a27c6c51a3c7b49d2bf732daf4bfa15e4", null ],
+    [ "Fra_ClassesTest", "d1/d6c/fraClass_8c.html#a1cd5ad656dc8ba4eb096c071984c4256", null ],
+    [ "Fra_ObjChild0Equ", "d1/d6c/fraClass_8c.html#aeb43093d485d6397f508553e55d46a59", null ],
+    [ "Fra_ObjChild1Equ", "d1/d6c/fraClass_8c.html#a0ce4676db2630f2e05e7e0bd73c4d006", null ],
+    [ "Fra_ObjEqu", "d1/d6c/fraClass_8c.html#ab497e5bfed7b553cfd1d6c3cfe1e6667", null ],
+    [ "Fra_ObjNext", "d1/d6c/fraClass_8c.html#abbedef95756d77567adaa1751e47b482", null ],
+    [ "Fra_ObjSetEqu", "d1/d6c/fraClass_8c.html#a072be089451229cbfa9bdce99422284d", null ],
+    [ "Fra_ObjSetNext", "d1/d6c/fraClass_8c.html#aed2a1fb28d60c7fc63668a09241c3599", null ],
+    [ "Fra_PrintClass", "d1/d6c/fraClass_8c.html#a42c068c1d45cf383c7621b2d219a718f", null ],
+    [ "Fra_RefineClassLastIter", "d1/d6c/fraClass_8c.html#aa00addcab8da5b92b2a6c2a872e7906b", null ],
+    [ "Fra_RefineClassOne", "d1/d6c/fraClass_8c.html#a63fa81b24e9c14ad5dd1829a44398891", null ]
+];
